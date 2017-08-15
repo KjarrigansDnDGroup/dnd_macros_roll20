@@ -1,5 +1,6 @@
 require 'nokogiri'
 require 'open-uri'
+require 'fileutils'
 
 class Spell < Struct.new :name, :school, :attributes, :summary, :description
   # Example in Readableformat - the real one needs to be single line...
@@ -19,6 +20,8 @@ class Spell < Struct.new :name, :school, :attributes, :summary, :description
   # {{**Missle 2:**=[[ d4+1 ]]}}
   # {{**Missle 3:**=[[ d4+1 ]]}}
   def to_macro_for(klass=:uni, caster_level=0, extended_text: false, readable: false)
+    raise "This spell can't use this spell (only #{spell.attributes['Level']})" if klass != :uni && level[klass].nil?
+
     mac = ["&{template:DnD35StdRoll}"]
     mac << "{{spellflag=true}}"
     att = attributes.dup
@@ -51,9 +54,19 @@ class Spell < Struct.new :name, :school, :attributes, :summary, :description
     parse_level attributes["Level"]
   end
 
+  def save_macro_file_for(klass, lvl, directory: '.')
+    FileUtils.mkdir_p directory
+
+    File.open(File.join(directory, level[klass] +'-'+name.tr(' ','_')+'.roll20'), 'w') do |f|
+      f.print self.to_macro_for(klass, lvl)
+    end
+  end
+
   private
   def parse_level(str)
-    list = str.split(',').map{|kl| kl.strip.split }.to_h
+    # There are some spells where the Level is missing behind the Klassname
+    # -> requested a wikichange as this is certainly a mistake.
+    list = str.split(',').map{|kl| kl.strip.split }.delete_if{|e| e.size != 2}.to_h
     list["Sor"] ||= list["Sor/Wiz"]
     list["Wiz"] ||= list["Sor/Wiz"]
     list
@@ -63,26 +76,38 @@ end
 if  __FILE__ == $0
   $stdin.sync = true
   $stdout.sync = true
-  require 'fileutils'
+
 
   print "Klass and (Caster)Level?: "
   klass, lvl = STDIN.gets.chomp.split
   dirname = [klass, lvl].compact.join('-')
-  FileUtils.mkdir_p dirname
 
   loop do
     print "Spellname(:Summary): "
     name, summary = STDIN.gets.chomp.split(':')
+
+    # correctly parse spells like "Name, Greater/Lesser"
+    name = name.split(',').map(&:strip).reverse.join(' ')
+
+    if name =~ /(.*)(F|M|X)$/
+      name = $1
+      special_cost = $2
+    end
     name = name.tr(' ', '_')
     begin
       spell = Spell.from_url("http://www.dandwiki.com/wiki/SRD:#{name}")
       spell.summary = summary
-
-      File.open(File.join(dirname, spell.level[klass] +'-'+name+'.roll20'), 'w') do |f|
-        f.print spell.to_macro_for(klass, lvl)
-      end
+      spell.save_macro_file_for(klass, lvl, directory: dirname)
     rescue => e
-      puts "ERROR: Can't generate macro for #{name} (#{e.message})"
+      if name =~ /Spell/
+        puts "ERROR: Can't generate macro for #{name} (#{e.message})"
+        puts e.backtrace if ENV['DEBUG']
+      else
+        # There are some spells which are named after effects and therefore need
+        # the Spell postfix in the url (e.g. darkvision -> Darkvision_(Spell)
+        name += "_(Spell)"
+        retry
+      end
     end
   end
 end
