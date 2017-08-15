@@ -57,7 +57,7 @@ class Spell < Struct.new :name, :school, :attributes, :summary, :description
   def save_macro_file_for(klass, lvl, directory: '.')
     FileUtils.mkdir_p directory
 
-    File.open(File.join(directory, level[klass] +'-'+name.tr(' ','_')+'.roll20'), 'w') do |f|
+    File.open(File.join(directory, level[klass] +'-'+name.tr('´`’', "'").tr(' /','_')+'.roll20'), 'w') do |f|
       f.print self.to_macro_for(klass, lvl)
     end
   end
@@ -78,18 +78,18 @@ if  __FILE__ == $0
   $stdout.sync = true
 
 
-  print "Klass and (Caster)Level?: "
+  # print "Klass and (Caster)Level?: "
   klass, lvl = STDIN.gets.chomp.split
   dirname = [klass, lvl].compact.join('-')
 
   loop do
-    print "Spellname(:Summary): "
+    #print "Spellname(:Summary): "
     name, summary = STDIN.gets.chomp.split(':')
 
     # correctly parse spells like "Name, Greater/Lesser"
     name = name.split(',').map(&:strip).reverse.join(' ')
 
-    if name =~ /(.*)(F|M|X)$/
+    if name =~ /(.*)(F|M|X){1,}$/
       name = $1
       special_cost = $2
     end
