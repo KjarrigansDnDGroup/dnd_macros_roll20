@@ -1,6 +1,6 @@
 # Roll20 Macro Generator
 
-This scripts fetches an url from the dandwiki.com (great site btw) and converts the information there to a roll20-macro. There are some TODO's left but its already pretty good for most spells.
+This scripts fetches an url from the [D&D Wiki](http://www.dandwiki.com/wiki/SRD:Spells) (great site btw) and converts the information there to a roll20-macro. There are some TODO's left but its already pretty good for most spells. Macros are based on the [D&D 3.5 StdRoll Template](https://wiki.roll20.net/Dungeons_and_Dragons_3.5#StdRoll_Template)
 
 ## TODO
 
