@@ -1,0 +1,1 @@
+&{template:DnD35StdRoll}{{spellflag=true}}{{name=Mending (Lv. 0)}}{{*School:*=Transmutation}}{{*Components:*=V, S}}{{*Casting time:*=1 standard action}}{{*Range:*=10 ft.}}{{*Target:*=One object of up to 1 lb.}}{{*Duration:*=Instantaneous}}{{*Saving Throw:*=Will negates (harmless, object)}}{{*Spell Resistance:*=Yes (harmless, object)}}{{notes= Makes minor repairs on an object.}}

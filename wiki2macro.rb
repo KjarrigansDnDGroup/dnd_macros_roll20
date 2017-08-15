@@ -73,6 +73,7 @@ if  __FILE__ == $0
   loop do
     print "Spellname(:Summary): "
     name, summary = STDIN.gets.chomp.split(':')
+    name = name.tr(' ', '_')
     begin
       spell = Spell.from_url("http://www.dandwiki.com/wiki/SRD:#{name}")
       spell.summary = summary

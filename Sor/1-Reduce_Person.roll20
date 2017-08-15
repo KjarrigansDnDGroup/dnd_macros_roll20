@@ -1,0 +1,1 @@
+&{template:DnD35StdRoll}{{spellflag=true}}{{name=Reduce Person (Lv. 1)}}{{*School:*=Transmutation}}{{*Components:*=V, S, M}}{{*Casting time:*=1 round}}{{*Range:*=Close (25 ft. + 5 ft./2 levels)}}{{*Target:*=One humanoid creature}}{{*Duration:*=1 min./level (D)}}{{*Saving Throw:*=Fortitude negates}}{{*Spell Resistance:*=Yes}}{{notes= Humanoid creature halves in size.}}
