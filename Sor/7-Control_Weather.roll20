@@ -1,0 +1,1 @@
+&{template:DnD35StdRoll}{{spellflag=true}}{{name=Control Weather (Lv. 7)}}{{*School:*=Transmutation}}{{*Components:*=V, S}}{{*Casting time:*=10 minutes; see text}}{{*Range:*=2 miles}}{{*Area:*=2-mile-radius circle, centered on you; see text}}{{*Duration:*=4d12 hours; see text}}{{*Saving Throw:*=None}}{{*Spell Resistance:*=No}}{{notes= Changes weather in local area.}}

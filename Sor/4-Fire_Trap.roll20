@@ -1,0 +1,1 @@
+&{template:DnD35StdRoll}{{spellflag=true}}{{name=Fire Trap (Lv. 4)}}{{*School:*=Abjuration [Fire]}}{{*Components:*=V, S, M}}{{*Casting time:*=10 minutes}}{{*Range:*=Touch}}{{*Target:*=Object touched}}{{*Duration:*=Permanent until discharged (D)}}{{*Saving Throw:*=Reflex half; see text}}{{*Spell Resistance:*=Yes}}{{notes= Opened object deals 1d4 damage +1/level.}}
