@@ -1,7 +1,7 @@
 require 'nokogiri'
 require 'open-uri'
 
-class Spell < Struct.new :name, :school, :attributes, :description
+class Spell < Struct.new :name, :school, :attributes, :summary, :description
   # Example in Readableformat - the real one needs to be single line...
   # &{template:DnD35StdRoll}
   # {{spellflag=true}}
@@ -18,7 +18,7 @@ class Spell < Struct.new :name, :school, :attributes, :description
   # {{**Missle 1**:=[[ d4+1 ]]}}
   # {{**Missle 2:**=[[ d4+1 ]]}}
   # {{**Missle 3:**=[[ d4+1 ]]}}
-  def to_macro_for(klass=:uni, caster_level=0, readable=false)
+  def to_macro_for(klass=:uni, caster_level=0, extended_text: false, readable: false)
     mac = ["&{template:DnD35StdRoll}"]
     mac << "{{spellflag=true}}"
     att = attributes.dup
@@ -33,6 +33,7 @@ class Spell < Struct.new :name, :school, :attributes, :description
     mac += att.map do |key,val|
       "{{*#{key}:*=#{val}}}"
     end
+    mac << "{{notes=#{extended_text ? description : summary}}}"
     mac.join(readable ? "\n" : "")
   end
 
@@ -44,6 +45,10 @@ class Spell < Struct.new :name, :school, :attributes, :description
       l.split("\n\n").map{|v| v.strip.chomp.tr(':', '') }
     end
     new name[0], school[0], attributes.to_h
+  end
+
+  def level
+    parse_level attributes["Level"]
   end
 
   private
@@ -66,12 +71,13 @@ if  __FILE__ == $0
   FileUtils.mkdir_p dirname
 
   loop do
-    print "Spellname: "
-    name = STDIN.gets.chomp
+    print "Spellname(:Summary): "
+    name, summary = STDIN.gets.chomp.split(':')
     begin
-      spell = Spell.from_url("http://www.dandwiki.com/wiki/SRD:#{name.tr(" ", '_')}")
+      spell = Spell.from_url("http://www.dandwiki.com/wiki/SRD:#{name}")
+      spell.summary = summary
 
-      File.open(File.join(dirname, name+'.roll20'), 'w') do |f|
+      File.open(File.join(dirname, spell.level[klass] +'-'+name+'.roll20'), 'w') do |f|
         f.print spell.to_macro_for(klass, lvl)
       end
     rescue => e
