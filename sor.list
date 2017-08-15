@@ -156,3 +156,231 @@ Secret Page: Changes one page to hide its real content.
 Shrink Item: Object shrinks to one-sixteenth size.
 Slow: One subject/level takes only one action/round, –1 to AC, reflex saves, and attack rolls.
 Water Breathing: Subjects can breathe underwater.
+Dimensional Anchor: Bars extradimensional movement.
+Fire TrapM: Opened object deals 1d4 damage +1/level.
+Globe of Invulnerability, Lesser: Stops 1st- through 3rd-level spell effects.
+Remove Curse: Frees object or person from curse.
+StoneskinM: Ignore 10 points of damage per attack.
+Black Tentacles: Tentacles grapple all within 20 ft. spread.
+Dimension Door: Teleports you short distance.
+Minor Creation: Creates one cloth or wood object.
+Secure Shelter: Creates sturdy cottage.
+Solid Fog: Blocks vision and slows movement.
+Summon Monster IV: Calls extraplanar creature to fight for you.
+Arcane Eye: Invisible floating eye moves 30 ft./round.
+Detect Scrying: Alerts you of magical eavesdropping.
+Locate Creature: Indicates direction to familiar creature.
+ScryingF: Spies on subject from a distance.
+Charm Monster: Makes monster believe it is your ally.
+Confusion: Subjects behave oddly for 1 round/level.
+Crushing Despair: Subjects take –2 on attack rolls, damage rolls, saves, and checks.
+Geas, Lesser: Commands subject of 7 HD or less.
+Dweomer of Transference: Convert spellcasting into psionic power points.
+Fire Shield: Creatures attacking you take fire damage; you’re protected from heat or cold.
+Ice Storm: Hail deals 5d6 damage in cylinder 40 ft. across.
+Resilient Sphere: Force globe protects but traps one subject.
+Shout: Deafens all within cone and deals 5d6 sonic damage.
+Wall of Fire: Deals 2d4 fire damage out to 10 ft. and 1d4 out to 20 ft. Passing through wall deals 2d6 damage +1/level.
+Wall of Ice: Ice plane creates wall with 15 hp +1/level, or hemisphere can trap creatures inside.
+Hallucinatory Terrain: Makes one type of terrain appear like another (field into forest, or the like).
+Illusory Wall: Wall, floor, or ceiling looks real, but anything can pass through.
+Invisibility, Greater: As invisibility, but subject can attack and stay invisible.
+Phantasmal Killer: Fearsome illusion kills subject or deals 3d6 damage.
+Rainbow Pattern: Lights fascinate 24 HD of creatures.
+Shadow Conjuration: Mimics Conjuration below 4th level, but only 20% real.
+Animate DeadM: Creates undead skeletons and zombies.
+Bestow Curse: –6 to an ability score; –4 on attack rolls, saves, and checks; or 50% chance of losing each action.
+Contagion: Infects subject with chosen disease.
+Enervation: Subject gains 1d4 negative levels.
+Fear: Subjects within cone flee for 1 round/level.
+Enlarge Person, Mass: Enlarges several creatures.
+Mnemonic EnhancerF: Wizard only. Prepares extra spells or retains one just cast.
+Polymorph: Gives one willing subject a new form.
+Reduce Person, Mass: Reduces several creatures.
+Stone Shape: Sculpts stone into any shape.
+Break Enchantment: Frees subjects from enchantments, alterations, curses, and petrification.
+Dismissal: Forces a creature to return to native plane.
+Mage's Private Sanctum: Prevents anyone from viewing or scrying an area for 24 hours.
+Psychic Turmoil: Invisible field leeches psionic power points away.
+Cloudkill: Kills 3 HD or less; 4–6 HD save or die, 6+ HD take Con damage.
+Mage's Faithful Hound: Phantom dog can guard, attack.
+Major Creation: As minor creation, plus stone and metal.
+Planar Binding, Lesser: Traps extraplanar creature of 6 HD or less until it performs a task.
+Secret ChestF: Hides expensive chest on Ethereal Plane; you retrieve it at will.
+Summon Monster V: Calls extraplanar creature to fight for you.
+Teleport: Instantly transports you as far as 100 miles/level.
+Wall of Stone: Creates a stone wall that can be shaped.
+Contact Other Plane: Lets you ask question of extraplanar entity.
+Prying Eyes: 1d4 +1/level floating eyes scout for you.
+Telepathic Bond: Link lets allies communicate.
+Dominate Person: Controls humanoid telepathically.
+Feeblemind: Subject’s Int and Cha drop to 1.
+Hold Monster: As hold person, but any creature.
+Mind Fog: Subjects in fog get –10 to Wis and Will checks.
+Symbol of SleepM: Triggered rune puts nearby creatures into catatonic slumber.
+Cone of Cold: 1d6/level cold damage.
+Interposing Hand: Hand provides cover against one opponent.
+Sending: Delivers short message anywhere, instantly.
+Wall of Force: Wall is immune to damage.
+Dream: Sends message to anyone sleeping.
+False VisionM: Fools scrying with an illusion.
+Mirage Arcana: As hallucinatory terrain, plus structures.
+Nightmare: Sends vision dealing 1d10 damage, fatigue.
+Persistent Image: As major image, but no concentration required.
+Seeming: Changes appearance of one person per two levels.
+Shadow Evocation: Mimics evocation below 5th level, but only 20% real.
+Blight: Withers one plant or deals 1d6/level damage to plant creature.
+Magic JarF: Enables possession of another creature.
+Symbol of PainM: Triggered rune wracks nearby creatures with pain.
+Waves of Fatigue: Several targets become fatigued.
+Animal Growth: One animal/two levels doubles in size.
+Baleful Polymorph: Transforms subject into harmless animal.
+Fabricate: Transforms raw materials into finished items.
+Overland Flight: You fly at a speed of 40 ft. and can hustle over long distances.
+Passwall: Creates passage through wood or stone wall.
+Telekinesis: Moves object, attacks creature, or hurls object or creature.
+Transmute Mud to Rock: Transforms two 10-ft. cubes per level.
+Transmute Rock to Mud: Transforms two 10-ft. cubes per level.
+PermanencyX: Makes certain spells permanent.
+Antimagic Field: Negates magic within 10 ft.
+Dispel Magic, Greater: As dispel magic, but +20 on check.
+Globe of Invulnerability: As lesser globe of invulnerability, plus 4th-level spell effects.
+Guards and Wards: Array of magic effects protect area.
+Repulsion: Creatures can’t approach you.
+Acid Fog: Fog deals acid damage.
+Planar Binding: As lesser planar binding, but up to 12 HD.
+Summon Monster VI: Calls extraplanar creature to fight for you.
+Wall of IronM: 30 hp/four levels; can topple onto foes.
+Analyze DweomerF: Reveals magical aspects of subject.
+Legend LoreMF: Lets You learn tales about a person, place, or thing.
+Probe Thoughts: Read subject’s memories, one question/ round.
+True SeeingM: Lets you see all things as they really are.
+Geas/Quest: As lesser geas, plus it affects any creature.
+Heroism, Greater: Gives +4 bonus on attack rolls, saves, skill checks; immunity to fear; temporary hp.
+Suggestion, Mass: As suggestion, plus one subject/level.
+Symbol of PersuasionM: Triggered rune charms nearby creatures.
+Chain Lightning: 1d6/level damage; 1 secondary bolt/level each deals half damage.
+ContingencyF: Sets trigger condition for another spell.
+Forceful Hand: Hand pushes creatures away.
+Freezing Sphere: Freezes water or deals cold damage.
+Mislead: Turns you invisible and creates illusory double.
+Permanent Image: Includes sight, sound, and smell.
+Programmed ImageM: As major image, plus triggered by event.
+Shadow Walk: Step into shadow to travel rapidly.
+Veil: Changes appearance of group of creatures.
+Circle of DeathM: Kills 1d4/level HD of creatures.
+Create UndeadM: Creates ghouls, ghasts, mummies, or mohrgs.
+Eyebite: Target becomes panicked, sickened, and comatose.
+Symbol of FearM: Triggered rune panics nearby creatures.
+Undeath to DeathM: Destroys 1d4/level HD of undead (max 20d4).
+Bear's Endurance, Mass: As bear’s endurance, affects one subject/level.
+Bull's Strength, Mass: As bull’s strength, affects one subject/ level.
+Cat's Grace, Mass: As cat’s grace, affects one subject/level.
+Control Water: Raises or lowers bodies of water.
+Disintegrate: Makes one creature or object vanish.
+Eagle's Splendor, Mass: As eagle’s splendor, affects one subject/level.
+Flesh to Stone: Turns subject creature into statue.
+Fox's Cunning, Mass: As fox’s cunning, affects one subject/level.
+Hardening: Increases hardness by one/two levels.
+Mage's Lucubration: Wizard only. Recalls spell of 5th level or lower.
+Mental PinnacleM: You gain the mental powers of a psion.
+Move Earth: Digs trenches and build hills.
+Owl's Wisdom, Mass: As owl’s wisdom, affects one subject/ level.
+Stone to Flesh: Restores petrified creature.
+TransformationM: You gain combat bonuses.
+Banishment: Banishes 2 HD/level of extraplanar creatures.
+Psychic Turmoil, Greater: As psychic turmoil, but you gain power points as temporary hit points.
+Sequester: Subject is invisible to sight and scrying; renders creature comatose.
+Spell Turning: Reflect 1d4+6 spell levels back at caster.
+Instant SummonsM: Prepared object appears in your hand.
+Mage's Magnificent MansionF: Door leads to extradimensional mansion.
+Phase Door: Creates an invisible passage through wood or stone.
+Plane ShiftF: As many as eight subjects travel to another plane.
+Summon Monster VII: Calls extraplanar creature to fight for you.
+Teleport, Greater: As teleport, but no range limit and no off-target arrival.
+Teleport Object: As teleport, but affects a touched object.
+Arcane Sight, Greater: As arcane sight, but also reveals magic effects on creatures and objects.
+Scrying, Greater: As scrying, but faster and longer.
+VisionMX: As legend lore, but quicker and strenuous.
+Hold Person, Mass: As hold person, but all within 30 ft.
+Insanity: Subject suffers continuous confusion.
+Power Word Blind: Blinds creature with 200 hp or less.
+Symbol of StunningM: Triggered rune stuns nearby creatures.
+Delayed Blast Fireball: 1d6/level fire damage; you can postpone blast for 5 rounds.
+ForcecageM: Cube or cage of force imprisons all inside.
+Grasping Hand: Hand provides cover, pushes, or grapples.
+Mage's SwordF: Floating magic blade strikes opponents.
+Prismatic Spray: Rays hit subjects with variety of effects.
+Invisibility, Mass: As invisibility, but affects all in range.
+Project Image: Illusory double can talk and cast spells.
+Shadow Conjuration, Greater: As shadow conjuration, but up to 6th level and 60% real.
+SimulacrumMX: Creates partially real double of a creature.
+Control Undead: Undead don’t attack you while under your command.
+Finger of Death: Kills one subject.
+Symbol of WeaknessM: Triggered rune weakens nearby creatures.
+Waves of Exhaustion: Several targets become exhausted.
+Control Weather: Changes weather in local area.
+Ethereal Jaunt: You become ethereal for 1 round/level.
+Reverse Gravity: Objects and creatures fall upward.
+Statue: Subject can become a statue at will.
+Limited WishX: Alters reality—within spell limits.
+Dimensional Lock: Teleportation and interplanar travel blocked for one day/level.
+Mind Blank: Subject is immune to mental/emotional magic and scrying.
+Prismatic Wall: Wall’s colors have array of effects.
+Protection from SpellsMF:Confers +8 resistance bonus.
+Incendiary Cloud: Cloud deals 4d6 fire damage/round.
+Maze: Traps subject in extradimensional maze.
+Planar Binding, Greater: As lesser planar binding, but up to 18 HD.
+Summon Monster VIII: Calls extraplanar creature to fight for you.
+Trap the SoulMF: Imprisons subject within gem.
+Discern Location: Reveals exact location of creature or object.
+Moment of Prescience: You gain insight bonus on single attack roll, check, or save.
+Prying Eyes, Greater: As prying eyes, but eyes have true seeing.
+Antipathy: Object or location affected by spell repels certain creatures.
+BindingM: Utilizes an array of techniques to imprison a creature.
+Charm Monster, Mass: As charm monster, but all within 30 ft.
+Demand: As sending, plus you can send suggestion.
+Irresistible Dance: Forces subject to dance.
+Maddening Scream: Forces subject to scream and drop defenses.
+Power Word Stun: Stuns creature with 150 hp or less.
+Symbol of InsanityM: Triggered rune renders nearby creatures insane.
+SympathyF: Object or location attracts certain creatures.
+Clenched Fist: Large hand provides cover, pushes, or attacks your foes.
+Polar Ray: Ranged touch attack deals 1d6/level cold damage.
+Shout, Greater: Devastating yell deals 10d6 sonic damage; stuns creatures, damages objects.
+Sunburst: Blinds all within 10 ft., deals 6d6 damage.
+Telekinetic Sphere: As resilient sphere, but you move sphere telekinetically.
+Scintillating Pattern: Twisting colors confuse, stun, or render unconscious.
+Screen: Illusion hides area from vision, scrying.
+Shadow Evocation, Greater: As shadow evocation, but up to 7th level and 60% real.
+CloneMF:Duplicate awakens when original dies.
+Create Greater UndeadM: Create shadows, wraiths, spectres, or devourers.
+Horrid Wilting: Deals 1d6/level damage within 30 ft.
+Symbol of DeathM: Triggered rune slays nearby creatures.
+Iron Body: Your body becomes living iron.
+Polymorph Any Object: Changes any subject into anything else.
+Temporal StasisM: Puts subject into suspended animation.
+Freedom: Releases creature from imprisonment.
+Imprisonment: Entombs subject beneath the earth.
+Mage's Disjunction: Dispels magic, disenchants magic items.
+Prismatic Sphere: As prismatic wall, but surrounds on all sides.
+GateX: Connects two planes for travel or summoning.
+RefugeM: Alters item to transport its possessor to you.
+Summon Monster IX: Calls extraplanar creature to fight for you.
+Teleportation CircleM: Circle teleports any creature inside to designated spot.
+Foresight: “Sixth sense” warns of impending danger.
+Dominate Monster: As dominate person, but any creature.
+Hold Monster, Mass: As hold monster, but all within 30 ft.
+Power Word Kill: Kills one creature with 100 hp or less.
+Crushing Hand: Large hand provides cover, pushes, or crushes your foes.
+Meteor Swarm: Four exploding spheres each deal 6d6 fire damage.
+Shades: As shadow conjuration, but up to 8th level and 80% real.
+Weird: As phantasmal killer, but affects all within 30 ft.
+Astral ProjectionM: Projects you and companions onto Astral Plane.
+Energy Drain: Subject gains 2d4 negative levels.
+Soul BindF: Traps newly dead soul to prevent resurrection.
+Wail of the Banshee: Kills one creature/level.
+Etherealness: Travel to Ethereal Plane with companions.
+ShapechangeF: Transforms you into any creature, and change forms once per round.
+Time Stop: You act freely for 1d4+1 rounds.
+WishX: As limited wish, but with fewer limits.
