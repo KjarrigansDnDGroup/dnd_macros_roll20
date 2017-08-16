@@ -4,6 +4,7 @@ This scripts fetches an url from the [D&D Wiki](http://www.dandwiki.com/wiki/SRD
 
 ## TODO
 
+- [ ] add special conditions (Material, XP or Focus) as "attribute" in the table with the specific price/value
 - [ ] convert dice-rolls and level dependent stuff to auto-calulated values
 - [ ] change the notes from the summary to the (shortened) description
 - [ ] decide how to handle the clerics "domains"
