@@ -6,6 +6,6 @@
 {{*Range:*=30 ft.}}
 {{*Area:*=Cone-shaped burst}}
 {{*Duration:*=Instantaneous}}
-{{*Saving Throw:*=Fortitude partial or Reflex negates (object); see text}}
+{{*Saving Throw:*=Fortitude **partial** DC [[ 10 + 4 + @{selected|cha-mod} ]] or Reflex negates (object); see text}}
 {{*Spell Resistance:*=Yes (object)}}
 {{notes= Deafens all within cone and deals 5d6 sonic damage.}}

@@ -6,6 +6,6 @@
 {{*Range:*=60 ft.}}
 {{*Area:*=Cone-shaped burst}}
 {{*Duration:*=Instantaneous}}
-{{*Saving Throw:*=Fortitude partial or Reflex negates (object); see text}}
+{{*Saving Throw:*=Fortitude **partial** DC [[ 10 + 8 + @{selected|cha-mod} ]] or Reflex negates (object); see text}}
 {{*Spell Resistance:*=Yes (object)}}
 {{notes= Devastating yell deals 10d6 sonic damage; stuns creatures, damages objects.}}

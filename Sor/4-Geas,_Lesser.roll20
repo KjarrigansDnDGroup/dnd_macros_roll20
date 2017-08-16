@@ -3,9 +3,9 @@
 {{*School:*=Enchantment (Compulsion) [Language-Dependent, Mind-Affecting]}}
 {{*Components:*=V}}
 {{*Casting time:*=1 round}}
-{{*Range:*=Close (25 ft. + 5 ft./2 levels)}}
+{{*Range:*=Close ([[ 25 + (floor(@{selected|casterlevel}/2)*5) ]] ft)}}
 {{*Target:*=One living creature with 7 HD or less}}
 {{*Duration:*=One day/level or until discharged (D)}}
-{{*Saving Throw:*=Will negates}}
+{{*Saving Throw:*=Will **negates** DC [[ 10 + 4 + @{selected|cha-mod} ]]}}
 {{*Spell Resistance:*=Yes}}
 {{notes= Commands subject of 7 HD or less.}}

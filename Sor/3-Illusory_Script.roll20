@@ -6,6 +6,6 @@
 {{*Range:*=Touch}}
 {{*Target:*=One touched object weighing no more than 10 lb.}}
 {{*Duration:*=One day/level (D)}}
-{{*Saving Throw:*=Will negates; see text}}
+{{*Saving Throw:*=Will **negates** DC [[ 10 + 3 + @{selected|cha-mod} ]]; see text}}
 {{*Spell Resistance:*=Yes}}
 {{notes= Only intended reader can decipher.}}

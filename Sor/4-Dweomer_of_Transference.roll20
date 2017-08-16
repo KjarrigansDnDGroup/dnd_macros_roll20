@@ -3,9 +3,9 @@
 {{*School:*=Evocation}}
 {{*Components:*=V, S}}
 {{*Casting time:*=1 minute}}
-{{*Range:*=Close (25 ft. + 5 ft./2 levels)}}
+{{*Range:*=Close ([[ 25 + (floor(@{selected|casterlevel}/2)*5) ]] ft)}}
 {{*Target:*=One willing psionic creature}}
 {{*Duration:*=1 round/level}}
-{{*Saving Throw:*=Will negates (harmless)}}
+{{*Saving Throw:*=Will **negates** DC [[ 10 + 4 + @{selected|cha-mod} ]] (harmless)}}
 {{*Spell Resistance:*=Yes (harmless)}}
 {{notes= Convert spellcasting into psionic power points.}}

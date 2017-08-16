@@ -6,6 +6,6 @@
 {{*Range:*=Touch}}
 {{*Target:*=Creature touched}}
 {{*Duration:*=10 min./level or until discharged}}
-{{*Saving Throw:*=Fortitude negates (harmless)}}
+{{*Saving Throw:*=Fortitude **negates** DC [[ 10 + 3 + @{selected|cha-mod} ]] (harmless)}}
 {{*Spell Resistance:*=Yes (harmless)}}
 {{notes= Absorb 12 points/level of damage from one kind of energy.}}

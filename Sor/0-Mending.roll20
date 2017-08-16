@@ -7,5 +7,5 @@
 {{*Range:*=10 ft.}}
 {{*Target:*=One object of up to 1 lb.}}
 {{*Duration:*=Instantaneous}}
-{{*Saving Throw:*=Will negates (harmless, object)}}
+{{*Saving Throw:*=Will **negates** DC [[ 10 + 0 + @{selected|cha-mod} ]] (harmless, object)}}
 {{*Spell Resistance:*=Yes (harmless, object)}}

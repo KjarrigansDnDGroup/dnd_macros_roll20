@@ -6,6 +6,6 @@
 {{*Range:*=Touch}}
 {{*Target:*=One touched object of up to 50 lb./level and 3 cu. ft./level}}
 {{*Duration:*=Instantaneous}}
-{{*Saving Throw:*=Will negates (object)}}
+{{*Saving Throw:*=Will **negates** DC [[ 10 + 7 + @{selected|cha-mod} ]] (object)}}
 {{*Spell Resistance:*=Yes (object)}}
 {{notes= As teleport, but affects a touched object.}}

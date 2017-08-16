@@ -6,6 +6,6 @@
 {{*Range:*=120 ft.}}
 {{*Area:*=120-ft. line}}
 {{*Duration:*=Instantaneous}}
-{{*Saving Throw:*=Reflex half}}
+{{*Saving Throw:*=Reflex **half** DC [[ 10 + 3 + @{selected|cha-mod} ]]}}
 {{*Spell Resistance:*=Yes}}
 {{notes= Electricity deals 1d6/level damage.}}

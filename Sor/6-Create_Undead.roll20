@@ -3,7 +3,7 @@
 {{*School:*=Necromancy [Evil]}}
 {{*Components:*=V, S, M}}
 {{*Casting time:*=1 hour}}
-{{*Range:*=Close (25 ft. + 5 ft./2 levels)}}
+{{*Range:*=Close ([[ 25 + (floor(@{selected|casterlevel}/2)*5) ]] ft)}}
 {{*Target:*=One corpse}}
 {{*Duration:*=Instantaneous}}
 {{*Saving Throw:*=None}}

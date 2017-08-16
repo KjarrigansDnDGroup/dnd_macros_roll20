@@ -6,6 +6,6 @@
 {{*Range:*=Long (400 ft. + 40 ft./level)}}
 {{*Target:*=One fire source, up to a 20-ft. cube}}
 {{*Duration:*=1d4+1 rounds, or 1d4+1 rounds after creatures leave the smoke cloud; see text}}
-{{*Saving Throw:*=Will negates or Fortitude negates; see text}}
+{{*Saving Throw:*=Will **negates** DC [[ 10 + 2 + @{selected|cha-mod} ]] or Fortitude **negates** DC [[ 10 + 2 + @{selected|cha-mod} ]]; see text}}
 {{*Spell Resistance:*=Yes or No; see text}}
 {{notes= Turns fire into blinding light or choking smoke.}}

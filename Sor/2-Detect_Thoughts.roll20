@@ -6,6 +6,6 @@
 {{*Range:*=60 ft.}}
 {{*Area:*=Cone-shaped emanation}}
 {{*Duration:*=Concentration, up to 1 min./level (D)}}
-{{*Saving Throw:*=Will negates; see text}}
+{{*Saving Throw:*=Will **negates** DC [[ 10 + 2 + @{selected|cha-mod} ]]; see text}}
 {{*Spell Resistance:*=No}}
 {{notes= Allows “listening” to surface thoughts.}}

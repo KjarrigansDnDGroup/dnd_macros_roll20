@@ -3,7 +3,7 @@
 {{*School:*=Illusion (Figment, Glamer)}}
 {{*Components:*=S}}
 {{*Casting time:*=1 standard action}}
-{{*Range:*=Close (25 ft. + 5 ft./2 levels)}}
+{{*Range:*=Close ([[ 25 + (floor(@{selected|casterlevel}/2)*5) ]] ft)}}
 {{*Target, or Effect:*=You/one illusory double}}
 {{*Duration:*=1 round/level (D) and concentration + 3 rounds; see text}}
 {{*Saving Throw:*=None or Will disbelief (if interacted with); see text}}

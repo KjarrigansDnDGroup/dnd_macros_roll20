@@ -6,6 +6,6 @@
 {{*Range:*=60 ft.}}
 {{*Area:*=Cone-shaped burst}}
 {{*Duration:*=Instantaneous}}
-{{*Saving Throw:*=Reflex half}}
+{{*Saving Throw:*=Reflex **half** DC [[ 10 + 5 + @{selected|cha-mod} ]]}}
 {{*Spell Resistance:*=Yes}}
 {{notes= 1d6/level cold damage.}}

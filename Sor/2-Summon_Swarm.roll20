@@ -3,7 +3,7 @@
 {{*School:*=Conjuration (Summoning)}}
 {{*Components:*=V, S, M/DF}}
 {{*Casting time:*=1 round}}
-{{*Range:*=Close (25 ft. + 5 ft./2 levels)}}
+{{*Range:*=Close ([[ 25 + (floor(@{selected|casterlevel}/2)*5) ]] ft)}}
 {{*Effect:*=One swarm of bats, rats, or spiders}}
 {{*Duration:*=Concentration + 2 rounds}}
 {{*Saving Throw:*=None}}

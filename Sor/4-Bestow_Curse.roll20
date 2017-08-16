@@ -6,6 +6,6 @@
 {{*Range:*=Touch}}
 {{*Target:*=Creature touched}}
 {{*Duration:*=Permanent}}
-{{*Saving Throw:*=Will negates}}
+{{*Saving Throw:*=Will **negates** DC [[ 10 + 4 + @{selected|cha-mod} ]]}}
 {{*Spell Resistance:*=Yes}}
 {{notes= –6 to an ability score; –4 on attack rolls, saves, and checks; or 50% chance of losing each action.}}

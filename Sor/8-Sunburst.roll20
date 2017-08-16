@@ -6,6 +6,6 @@
 {{*Range:*=Long (400 ft. + 40 ft./level)}}
 {{*Area:*=80-ft.-radius burst}}
 {{*Duration:*=Instantaneous}}
-{{*Saving Throw:*=Reflex partial; see text}}
+{{*Saving Throw:*=Reflex **partial** DC [[ 10 + 8 + @{selected|cha-mod} ]]; see text}}
 {{*Spell Resistance:*=Yes}}
 {{notes= Blinds all within 10 ft., deals 6d6 damage.}}

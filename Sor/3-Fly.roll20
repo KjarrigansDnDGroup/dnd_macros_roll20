@@ -6,6 +6,6 @@
 {{*Range:*=Touch}}
 {{*Target:*=Creature touched}}
 {{*Duration:*=1 min./level}}
-{{*Saving Throw:*=Will negates (harmless)}}
+{{*Saving Throw:*=Will **negates** DC [[ 10 + 3 + @{selected|cha-mod} ]] (harmless)}}
 {{*Spell Resistance:*=Yes (harmless)}}
 {{notes= Subject flies at speed of 60 ft.}}

@@ -6,6 +6,6 @@
 {{*Range:*=Touch}}
 {{*Target:*=Corpse touched}}
 {{*Duration:*=One day/level}}
-{{*Saving Throw:*=Will negates (object)}}
+{{*Saving Throw:*=Will **negates** DC [[ 10 + 3 + @{selected|cha-mod} ]] (object)}}
 {{*Spell Resistance:*=Yes (object)}}
 {{notes= Preserves one corpse.}}

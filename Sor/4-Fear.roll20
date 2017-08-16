@@ -6,6 +6,6 @@
 {{*Range:*=30 ft.}}
 {{*Area:*=Cone-shaped burst}}
 {{*Duration:*=1 round/level or 1 round; see text}}
-{{*Saving Throw:*=Will partial}}
+{{*Saving Throw:*=Will **partial** DC [[ 10 + 4 + @{selected|cha-mod} ]]}}
 {{*Spell Resistance:*=Yes}}
 {{notes= Subjects within cone flee for 1 round/level.}}

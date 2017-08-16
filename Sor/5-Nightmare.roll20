@@ -6,6 +6,6 @@
 {{*Range:*=Unlimited}}
 {{*Target:*=One living creature}}
 {{*Duration:*=Instantaneous}}
-{{*Saving Throw:*=Will negates; see text}}
+{{*Saving Throw:*=Will **negates** DC [[ 10 + 5 + @{selected|cha-mod} ]]; see text}}
 {{*Spell Resistance:*=Yes}}
 {{notes= Sends vision dealing 1d10 damage, fatigue.}}

@@ -6,6 +6,6 @@
 {{*Range:*=Long (400 ft. + 40 ft./level)}}
 {{*Targets:*=See text}}
 {{*Duration:*=Concentration (up to 1 round/ level) or instantaneous; see text}}
-{{*Saving Throw:*=Will negates (object) or None; see text}}
+{{*Saving Throw:*=Will **negates** DC [[ 10 + 5 + @{selected|cha-mod} ]] (object) or None; see text}}
 {{*Spell Resistance:*=Yes (object); see text}}
 {{notes= Moves object, attacks creature, or hurls object or creature.}}

@@ -3,7 +3,7 @@
 {{*School:*=Evocation [Cold]}}
 {{*Components:*=V, S, F}}
 {{*Casting time:*=1 standard action}}
-{{*Range:*=Close (25 ft. + 5 ft./2 levels)}}
+{{*Range:*=Close ([[ 25 + (floor(@{selected|casterlevel}/2)*5) ]] ft)}}
 {{*Effect:*=Ray}}
 {{*Duration:*=Instantaneous}}
 {{*Saving Throw:*=None}}

@@ -6,6 +6,6 @@
 {{*Range:*=Touch}}
 {{*Target:*=One object touched of up to 100 lb./level}}
 {{*Duration:*=8 hours (D)}}
-{{*Saving Throw:*=Will negates (object)}}
+{{*Saving Throw:*=Will **negates** DC [[ 10 + 2 + @{selected|cha-mod} ]] (object)}}
 {{*Spell Resistance:*=Yes (object)}}
 {{notes= Masks object against scrying.}}

@@ -6,6 +6,6 @@
 {{*Range:*=Touch}}
 {{*Targets:*=Creature or creatures touched (up to one/level)}}
 {{*Duration:*=Instantaneous}}
-{{*Saving Throw:*=Fortitude partial or Will negates; see text}}
+{{*Saving Throw:*=Fortitude **partial** DC [[ 10 + 1 + @{selected|cha-mod} ]] or Will negates; see text}}
 {{*Spell Resistance:*=Yes}}
 {{notes= One touch/level deals 1d6 damage and possibly 1 Str damage.}}

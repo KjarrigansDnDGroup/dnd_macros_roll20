@@ -6,6 +6,6 @@
 {{*Range:*=Long (400 ft. + 40 ft./level)}}
 {{*Area:*=20-ft.-radius spread}}
 {{*Duration:*=5 rounds or less; see text}}
-{{*Saving Throw:*=Reflex half}}
+{{*Saving Throw:*=Reflex **half** DC [[ 10 + 7 + @{selected|cha-mod} ]]}}
 {{*Spell Resistance:*=Yes}}
 {{notes= 1d6/level fire damage; you can postpone blast for 5 rounds.}}

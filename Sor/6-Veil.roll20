@@ -6,6 +6,6 @@
 {{*Range:*=Long (400 ft. + 40 ft./level)}}
 {{*Targets:*=One or more creatures, no two of which can be more than 30 ft. apart}}
 {{*Duration:*=Concentration + 1 hour/level (D)}}
-{{*Saving Throw:*=Will negates; see text}}
+{{*Saving Throw:*=Will **negates** DC [[ 10 + 6 + @{selected|cha-mod} ]]; see text}}
 {{*Spell Resistance:*=Yes; see text}}
 {{notes= Changes appearance of group of creatures.}}

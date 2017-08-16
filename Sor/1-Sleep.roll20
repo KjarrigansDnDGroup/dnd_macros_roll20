@@ -3,9 +3,9 @@
 {{*School:*=Enchantment (Compulsion) [Mind-Affecting]}}
 {{*Components:*=V, S, M}}
 {{*Casting time:*=1 round}}
-{{*Range:*=Medium (100 ft. + 10 ft./level)}}
+{{*Range:*=Medium ([[ 100 + [[ @{selected|casterlevel} * 10) ]] ]] ft. }}
 {{*Area:*=One or more living creatures within a 10-ft.-radius burst}}
 {{*Duration:*=1 min./level}}
-{{*Saving Throw:*=Will negates}}
+{{*Saving Throw:*=Will **negates** DC [[ 10 + 1 + @{selected|cha-mod} ]]}}
 {{*Spell Resistance:*=Yes}}
 {{notes= Puts 4 HD of creatures into magical slumber.}}

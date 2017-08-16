@@ -3,9 +3,9 @@
 {{*School:*=Transmutation}}
 {{*Components:*=V, S, M}}
 {{*Casting time:*=1 round}}
-{{*Range:*=Close (25 ft. + 5 ft./2 levels)}}
+{{*Range:*=Close ([[ 25 + (floor(@{selected|casterlevel}/2)*5) ]] ft)}}
 {{*Target:*=One humanoid creature}}
 {{*Duration:*=1 min./level (D)}}
-{{*Saving Throw:*=Fortitude negates}}
+{{*Saving Throw:*=Fortitude **negates** DC [[ 10 + 1 + @{selected|cha-mod} ]]}}
 {{*Spell Resistance:*=Yes}}
 {{notes= Humanoid creature doubles in size.}}

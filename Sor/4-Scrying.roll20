@@ -6,6 +6,6 @@
 {{*Range:*=See text}}
 {{*Effect:*=Magical sensor}}
 {{*Duration:*=1 min./level}}
-{{*Saving Throw:*=Will negates}}
+{{*Saving Throw:*=Will **negates** DC [[ 10 + 4 + @{selected|cha-mod} ]]}}
 {{*Spell Resistance:*=Yes}}
 {{notes= Spies on subject from a distance.}}

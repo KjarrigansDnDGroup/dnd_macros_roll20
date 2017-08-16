@@ -6,6 +6,6 @@
 {{*Range:*=Touch}}
 {{*Target:*=Creature touched}}
 {{*Duration:*=1 min./level}}
-{{*Saving Throw:*=Will negates (harmless)}}
+{{*Saving Throw:*=Will **negates** DC [[ 10 + 2 + @{selected|cha-mod} ]] (harmless)}}
 {{*Spell Resistance:*=Yes}}
 {{notes= Subject gains +4 to Dex for 1 min./level.}}

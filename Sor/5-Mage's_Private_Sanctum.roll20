@@ -3,7 +3,7 @@
 {{*School:*=Abjuration}}
 {{*Components:*=V, S, M}}
 {{*Casting time:*=10 minutes}}
-{{*Range:*=Close (25 ft. + 5 ft./2 levels)}}
+{{*Range:*=Close ([[ 25 + (floor(@{selected|casterlevel}/2)*5) ]] ft)}}
 {{*Area:*=30-ft. cube/level (S)}}
 {{*Duration:*=24 hours (D)}}
 {{*Saving Throw:*=None}}

@@ -6,6 +6,6 @@
 {{*Range:*=Long (400 ft. + 40 ft./level)}}
 {{*Targets:*=One primary target, plus one secondary target/level (each of which must be within 30 ft. of the primary target)}}
 {{*Duration:*=Instantaneous}}
-{{*Saving Throw:*=Reflex half}}
+{{*Saving Throw:*=Reflex **half** DC [[ 10 + 6 + @{selected|cha-mod} ]]}}
 {{*Spell Resistance:*=Yes}}
-{{notes= 1d6/level damage; 1 secondary bolt/level each deals half damage.}}
+{{notes= 1d6/level damage; 1 secondary bolt/level each deals **half** DC [[ 10 + 6 + @{selected|cha-mod} ]] damage.}}

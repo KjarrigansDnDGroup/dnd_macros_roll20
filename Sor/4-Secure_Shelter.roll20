@@ -3,7 +3,7 @@
 {{*School:*=Conjuration (Creation)}}
 {{*Components:*=V, S, M, F; see text}}
 {{*Casting time:*=10 minutes}}
-{{*Range:*=Close (25 ft. + 5 ft./2 levels)}}
+{{*Range:*=Close ([[ 25 + (floor(@{selected|casterlevel}/2)*5) ]] ft)}}
 {{*Effect:*=20-ft.-square structure}}
 {{*Duration:*=2 hours/level (D)}}
 {{*Saving Throw:*=None}}

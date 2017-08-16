@@ -6,6 +6,6 @@
 {{*Range:*=Personal or touch}}
 {{*Target:*=You or a creature or object weighing no more than 100 lb./level}}
 {{*Duration:*=1 min./level (D)}}
-{{*Saving Throw:*=Will negates (harmless) or Will negates (harmless, object)}}
+{{*Saving Throw:*=Will **negates** DC [[ 10 + 2 + @{selected|cha-mod} ]] (harmless) or Will **negates** DC [[ 10 + 2 + @{selected|cha-mod} ]] (harmless, object)}}
 {{*Spell Resistance:*=Yes (harmless) or Yes (harmless, object)}}
 {{notes= Subject is invisible for 1 min./level or until it attacks.}}

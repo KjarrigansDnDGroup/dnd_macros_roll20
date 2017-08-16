@@ -6,6 +6,6 @@
 {{*Range:*=Touch}}
 {{*Target:*=Creature touched}}
 {{*Duration:*=Instantaneous}}
-{{*Saving Throw:*=Will negates; see text}}
+{{*Saving Throw:*=Will **negates** DC [[ 10 + 9 + @{selected|cha-mod} ]]; see text}}
 {{*Spell Resistance:*=Yes}}
 {{notes= Entombs subject beneath the earth.}}

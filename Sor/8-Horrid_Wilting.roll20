@@ -6,6 +6,6 @@
 {{*Range:*=Long (400 ft. + 40 ft./level)}}
 {{*Targets:*=Living creatures, no two of which can be more than 60 ft. apart}}
 {{*Duration:*=Instantaneous}}
-{{*Saving Throw:*=Fortitude half}}
+{{*Saving Throw:*=Fortitude **half** DC [[ 10 + 8 + @{selected|cha-mod} ]]}}
 {{*Spell Resistance:*=Yes}}
 {{notes= Deals 1d6/level damage within 30 ft.}}

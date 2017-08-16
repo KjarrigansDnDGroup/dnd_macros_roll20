@@ -6,6 +6,6 @@
 {{*Range:*=Touch}}
 {{*Target:*=Creature touched}}
 {{*Duration:*=1 min./level (D)}}
-{{*Saving Throw:*=Will negates (harmless)}}
+{{*Saving Throw:*=Will **negates** DC [[ 10 + 1 + @{selected|cha-mod} ]] (harmless)}}
 {{*Spell Resistance:*=No; see text}}
 {{notes= +2 to AC and saves, counter mind control, hedge out elementals and outsiders.}}

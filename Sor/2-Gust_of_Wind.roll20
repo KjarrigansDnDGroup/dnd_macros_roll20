@@ -6,6 +6,6 @@
 {{*Range:*=60 ft.}}
 {{*Effect:*=Line-shaped gust of severe wind emanating out from you to the extreme of the range}}
 {{*Duration:*=1 round}}
-{{*Saving Throw:*=Fortitude negates}}
+{{*Saving Throw:*=Fortitude **negates** DC [[ 10 + 2 + @{selected|cha-mod} ]]}}
 {{*Spell Resistance:*=Yes}}
 {{notes= Blows away or knocks down smaller creatures.}}

@@ -3,9 +3,9 @@
 {{*School:*=Enchantment (Compulsion) [Mind-Affecting]}}
 {{*Components:*=V, S}}
 {{*Casting time:*=1 standard action}}
-{{*Range:*=Medium (100 ft. + 10 ft./level)}}
+{{*Range:*=Medium ([[ 100 + [[ @{selected|casterlevel} * 10) ]] ]] ft. }}
 {{*Effect:*=Fog spreads in 20-ft. radius, 20 ft. high}}
 {{*Duration:*=30 minutes and 2d6 rounds; see text}}
-{{*Saving Throw:*=Will negates}}
+{{*Saving Throw:*=Will **negates** DC [[ 10 + 5 + @{selected|cha-mod} ]]}}
 {{*Spell Resistance:*=Yes}}
 {{notes= Subjects in fog get –10 to Wis and Will checks.}}

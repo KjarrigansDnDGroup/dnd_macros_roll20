@@ -3,7 +3,7 @@
 {{*School:*=Abjuration}}
 {{*Components:*=V, S}}
 {{*Casting time:*=1 minute}}
-{{*Range:*=Close (25 ft. + 5 ft./2 levels)}}
+{{*Range:*=Close ([[ 25 + (floor(@{selected|casterlevel}/2)*5) ]] ft)}}
 {{*Targets:*=Up to one creature per level, all within 30 ft. of each other}}
 {{*Duration:*=Instantaneous}}
 {{*Saving Throw:*=See text}}

@@ -6,6 +6,6 @@
 {{*Range:*=Touch}}
 {{*Target:*=Creature touched}}
 {{*Duration:*=10 min./level}}
-{{*Saving Throw:*=Fortitude negates (harmless)}}
+{{*Saving Throw:*=Fortitude **negates** DC [[ 10 + 2 + @{selected|cha-mod} ]] (harmless)}}
 {{*Spell Resistance:*=Yes (harmless)}}
 {{notes= Ignores first 10 (or more) points of damage/attack from specified energy type.}}

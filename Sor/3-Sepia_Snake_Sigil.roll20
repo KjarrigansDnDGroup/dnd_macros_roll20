@@ -6,6 +6,6 @@
 {{*Range:*=Touch}}
 {{*Target:*=One touched book or written work}}
 {{*Duration:*=Permanent or until discharged; until released or 1d4 days + one day/level; see text}}
-{{*Saving Throw:*=Reflex negates}}
+{{*Saving Throw:*=Reflex **negates** DC [[ 10 + 3 + @{selected|cha-mod} ]]}}
 {{*Spell Resistance:*=No}}
 {{notes= Creates text symbol that immobilizes reader.}}

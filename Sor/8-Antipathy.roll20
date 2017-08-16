@@ -3,9 +3,9 @@
 {{*School:*=Enchantment (Compulsion) [Mind-Affecting]}}
 {{*Components:*=V, S, M/DF}}
 {{*Casting time:*=1 hour}}
-{{*Range:*=Close (25 ft. + 5 ft./2 levels)}}
+{{*Range:*=Close ([[ 25 + (floor(@{selected|casterlevel}/2)*5) ]] ft)}}
 {{*Target:*=One location (up to a 10-ft. cube/level) or one object}}
 {{*Duration:*=2 hours/level (D)}}
-{{*Saving Throw:*=Will partial}}
+{{*Saving Throw:*=Will **partial** DC [[ 10 + 8 + @{selected|cha-mod} ]]}}
 {{*Spell Resistance:*=Yes}}
 {{notes= Object or location affected by spell repels certain creatures.}}

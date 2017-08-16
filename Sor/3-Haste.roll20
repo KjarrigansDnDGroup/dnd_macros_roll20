@@ -3,9 +3,9 @@
 {{*School:*=Transmutation}}
 {{*Components:*=V, S, M}}
 {{*Casting time:*=1 standard action}}
-{{*Range:*=Close (25 ft. + 5 ft./2 levels)}}
+{{*Range:*=Close ([[ 25 + (floor(@{selected|casterlevel}/2)*5) ]] ft)}}
 {{*Targets:*=One creature/level, no two of which can be more than 30 ft. apart}}
 {{*Duration:*=1 round/level}}
-{{*Saving Throw:*=Fortitude negates (harmless)}}
+{{*Saving Throw:*=Fortitude **negates** DC [[ 10 + 3 + @{selected|cha-mod} ]] (harmless)}}
 {{*Spell Resistance:*=Yes (harmless)}}
 {{notes= One creature/level moves faster, +1 on attack rolls, AC, and Reflex saves.}}

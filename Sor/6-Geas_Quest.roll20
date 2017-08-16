@@ -3,7 +3,7 @@
 {{*School:*=Enchantment (Compulsion) [Language-Dependent, Mind-Affecting]}}
 {{*Components:*=V}}
 {{*Casting time:*=10 minutes}}
-{{*Range:*=Close (25 ft. + 5 ft./2 levels)}}
+{{*Range:*=Close ([[ 25 + (floor(@{selected|casterlevel}/2)*5) ]] ft)}}
 {{*Target:*=One living creature}}
 {{*Duration:*=One day/level or until discharged (D)}}
 {{*Saving Throw:*=None}}

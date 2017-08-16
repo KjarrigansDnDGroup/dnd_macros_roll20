@@ -6,6 +6,6 @@
 {{*Range:*=Long (400 ft. + 40 ft./level)}}
 {{*Target, Effect, or Area:*=See text}}
 {{*Duration:*=Instantaneous or 1 round/level; see text}}
-{{*Saving Throw:*=Reflex half; see text}}
+{{*Saving Throw:*=Reflex **half** DC [[ 10 + 6 + @{selected|cha-mod} ]]; see text}}
 {{*Spell Resistance:*=Yes}}
 {{notes= Freezes water or deals cold damage.}}

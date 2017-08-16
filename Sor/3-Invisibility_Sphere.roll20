@@ -6,6 +6,6 @@
 {{*Range:*=Personal or touch}}
 {{*Area:*=10-ft.-radius emanation around the creature or object touched}}
 {{*Duration:*=1 min./level (D)}}
-{{*Saving Throw:*=Will negates (harmless) or Will negates (harmless, object)}}
+{{*Saving Throw:*=Will **negates** DC [[ 10 + 3 + @{selected|cha-mod} ]] (harmless) or Will **negates** DC [[ 10 + 3 + @{selected|cha-mod} ]] (harmless, object)}}
 {{*Spell Resistance:*=Yes (harmless) or Yes (harmless, object)}}
 {{notes= Makes everyone within 10 ft. invisible.}}

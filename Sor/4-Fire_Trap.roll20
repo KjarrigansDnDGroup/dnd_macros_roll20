@@ -6,6 +6,6 @@
 {{*Range:*=Touch}}
 {{*Target:*=Object touched}}
 {{*Duration:*=Permanent until discharged (D)}}
-{{*Saving Throw:*=Reflex half; see text}}
+{{*Saving Throw:*=Reflex **half** DC [[ 10 + 4 + @{selected|cha-mod} ]]; see text}}
 {{*Spell Resistance:*=Yes}}
 {{notes= Opened object deals 1d4 damage +1/level.}}

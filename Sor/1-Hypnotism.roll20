@@ -3,9 +3,9 @@
 {{*School:*=Enchantment (Compulsion) [Mind-Affecting]}}
 {{*Components:*=V, S}}
 {{*Casting time:*=1 round}}
-{{*Range:*=Close (25 ft. + 5 ft./2 levels)}}
+{{*Range:*=Close ([[ 25 + (floor(@{selected|casterlevel}/2)*5) ]] ft)}}
 {{*Area:*=Several living creatures, no two of which may be more than 30 ft. apart}}
 {{*Duration:*=2d4 rounds (D)}}
-{{*Saving Throw:*=Will negates}}
+{{*Saving Throw:*=Will **negates** DC [[ 10 + 1 + @{selected|cha-mod} ]]}}
 {{*Spell Resistance:*=Yes}}
 {{notes= Fascinates 2d4 HD of creatures.}}

@@ -6,6 +6,6 @@
 {{*Range:*=Touch}}
 {{*Target:*=One touched object of up to 2 cu. ft./level}}
 {{*Duration:*=One day/level; see text}}
-{{*Saving Throw:*=Will negates (object)}}
+{{*Saving Throw:*=Will **negates** DC [[ 10 + 3 + @{selected|cha-mod} ]] (object)}}
 {{*Spell Resistance:*=Yes (object)}}
 {{notes= Object shrinks to one-sixteenth size.}}

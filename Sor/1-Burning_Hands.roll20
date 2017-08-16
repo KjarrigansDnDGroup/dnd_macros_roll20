@@ -6,6 +6,6 @@
 {{*Range:*=15 ft.}}
 {{*Area:*=Cone-shaped burst}}
 {{*Duration:*=Instantaneous}}
-{{*Saving Throw:*=Reflex half}}
+{{*Saving Throw:*=Reflex **half** DC [[ 10 + 1 + @{selected|cha-mod} ]]}}
 {{*Spell Resistance:*=Yes}}
 {{notes= 1d4/level fire damage (max 5d4).}}

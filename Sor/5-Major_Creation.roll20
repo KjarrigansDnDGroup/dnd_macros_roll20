@@ -3,7 +3,7 @@
 {{*School:*=Conjuration (Creation)}}
 {{*Components:*=V, S, M}}
 {{*Casting time:*=10 minutes}}
-{{*Range:*=Close (25 ft. + 5 ft./2 levels)}}
+{{*Range:*=Close ([[ 25 + (floor(@{selected|casterlevel}/2)*5) ]] ft)}}
 {{*Effect:*=Unattended, nonmagical object of nonliving plant matter, up to 1 cu. ft./level}}
 {{*Duration:*=See text}}
 {{*Saving Throw:*=None}}

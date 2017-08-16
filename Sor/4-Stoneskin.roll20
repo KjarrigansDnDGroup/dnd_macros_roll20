@@ -6,6 +6,6 @@
 {{*Range:*=Touch}}
 {{*Target:*=Creature touched}}
 {{*Duration:*=10 min./level or until discharged}}
-{{*Saving Throw:*=Will negates (harmless)}}
+{{*Saving Throw:*=Will **negates** DC [[ 10 + 4 + @{selected|cha-mod} ]] (harmless)}}
 {{*Spell Resistance:*=Yes (harmless)}}
 {{notes= Ignore 10 points of damage per attack.}}
