@@ -1,1 +1,12 @@
-&{template:DnD35StdRoll}{{spellflag=true}}{{name=Daze (Lv. 0)}}{{*School:*=Enchantment (Compulsion) [Mind-Affecting]}}{{*Components:*=V, S, M}}{{*Casting time:*=1 standard action}}{{*Range:*=Close (25 ft. + 5 ft./2 levels)}}{{*Target:*=One humanoid creature of 4 HD or less}}{{*Duration:*=1 round}}{{*Saving Throw:*=Will negates}}{{*Spell Resistance:*=Yes}}{{notes= Humanoid creature of 4 HD or less loses next action.}}
+&{template:DnD35StdRoll}{{spellflag=true}}
+{{name=Daze (Lv. 0)}}
+{{*School:*=Enchantment (Compulsion) [Mind-Affecting]}}
+{{*Components:*=V, S, M}}
+{{*Material:*= A pinch of wool or similar substance.}}
+{{*Casting time:*=1 standard action}}
+{{*Range:*=Close ([[ 25 + (floor(@{selected|casterlevel}/2)*5) ]] ft)}}
+{{*Target:*=One humanoid creature of 4 HD or less}}
+{{*Duration:*=1 round}}
+{{*Saving Throw:*=Will **negates** DC [[ 10 + 0 + @{selected|wis-bonus} ]]}}
+{{*Spell Resistance:*=Yes}}
+{{notes= This enchantment clouds the mind of a humanoid creature with 4 or fewer Hit Dice so that it takes no actions. Humanoids of 5 or more HD are not affected. A dazed subject is not stunned, so attackers get no special advantage against it.}}

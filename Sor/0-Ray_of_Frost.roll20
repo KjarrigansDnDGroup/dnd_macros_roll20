@@ -1,1 +1,11 @@
-&{template:DnD35StdRoll}{{spellflag=true}}{{name=Ray of Frost (Lv. 0)}}{{*School:*=Evocation [Cold]}}{{*Components:*=V, S}}{{*Casting time:*=1 standard action}}{{*Range:*=Close (25 ft. + 5 ft./2 levels)}}{{*Effect:*=Ray}}{{*Duration:*=Instantaneous}}{{*Saving Throw:*=None}}{{*Spell Resistance:*=Yes}}{{notes= Ray deals 1d3 cold damage.}}
+&{template:DnD35StdRoll}{{spellflag=true}}
+{{name=Ray of Frost (Lv. 0)}}
+{{subtags= Ray deals 1d3 cold damage.}}
+{{*School:*=Evocation [Cold]}}
+{{*Components:*=V, S}}
+{{*Casting time:*=1 standard action}}
+{{*Range:*=Close ([[ 25 + (floor(@{selected|casterlevel}/2)*5) ]] ft)}}
+{{*Effect:*=Ray}}
+{{*Duration:*=Instantaneous}}
+{{*Saving Throw:*=None}}
+{{*Spell Resistance:*=Yes}}
