@@ -1,1 +1,11 @@
-&{template:DnD35StdRoll}{{spellflag=true}}{{name=Arcane Eye (Lv. 4)}}{{*School:*=Divination (Scrying)}}{{*Components:*=V, S, M}}{{*Casting time:*=10 minutes}}{{*Range:*=Unlimited}}{{*Effect:*=Magical sensor}}{{*Duration:*=1 min./level (D)}}{{*Saving Throw:*=None}}{{*Spell Resistance:*=No}}{{notes= Invisible floating eye moves 30 ft./round.}}
+&{template:DnD35StdRoll}{{spellflag=true}}
+{{name=Arcane Eye (Lv. 4)}}
+{{*School:*=Divination (Scrying)}}
+{{*Components:*=V, S, M}}
+{{*Casting time:*=10 minutes}}
+{{*Range:*=Unlimited}}
+{{*Effect:*=Magical sensor}}
+{{*Duration:*=1 min./level (D)}}
+{{*Saving Throw:*=None}}
+{{*Spell Resistance:*=No}}
+{{notes= Invisible floating eye moves 30 ft./round.}}

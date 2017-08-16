@@ -1,1 +1,11 @@
-&{template:DnD35StdRoll}{{spellflag=true}}{{name=Illusory Script (Lv. 3)}}{{*School:*=Illusion (Phantasm) [Mind-Affecting]}}{{*Components:*=V, S, M}}{{*Casting time:*=1 minute or longer; see text}}{{*Range:*=Touch}}{{*Target:*=One touched object weighing no more than 10 lb.}}{{*Duration:*=One day/level (D)}}{{*Saving Throw:*=Will negates; see text}}{{*Spell Resistance:*=Yes}}{{notes= Only intended reader can decipher.}}
+&{template:DnD35StdRoll}{{spellflag=true}}
+{{name=Illusory Script (Lv. 3)}}
+{{*School:*=Illusion (Phantasm) [Mind-Affecting]}}
+{{*Components:*=V, S, M}}
+{{*Casting time:*=1 minute or longer; see text}}
+{{*Range:*=Touch}}
+{{*Target:*=One touched object weighing no more than 10 lb.}}
+{{*Duration:*=One day/level (D)}}
+{{*Saving Throw:*=Will negates; see text}}
+{{*Spell Resistance:*=Yes}}
+{{notes= Only intended reader can decipher.}}

@@ -1,1 +1,5 @@
-&{template:DnD35StdRoll}{{spellflag=true}}{{name=Forceful Hand (Lv. 6)}}{{*School:*=Evocation [Force]}}{{*Components:*=V, S, F}}{{notes= Hand pushes creatures away.}}
+&{template:DnD35StdRoll}{{spellflag=true}}
+{{name=Forceful Hand (Lv. 6)}}
+{{*School:*=Evocation [Force]}}
+{{*Components:*=V, S, F}}
+{{notes= Hand pushes creatures away.}}

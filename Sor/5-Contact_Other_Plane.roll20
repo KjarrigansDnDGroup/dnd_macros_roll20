@@ -1,1 +1,9 @@
-&{template:DnD35StdRoll}{{spellflag=true}}{{name=Contact Other Plane (Lv. 5)}}{{*School:*=Divination}}{{*Components:*=V}}{{*Casting time:*=10 minutes}}{{*Range:*=Personal}}{{*Target:*=You}}{{*Duration:*=Concentration}}{{notes= Lets you ask question of extraplanar entity.}}
+&{template:DnD35StdRoll}{{spellflag=true}}
+{{name=Contact Other Plane (Lv. 5)}}
+{{*School:*=Divination}}
+{{*Components:*=V}}
+{{*Casting time:*=10 minutes}}
+{{*Range:*=Personal}}
+{{*Target:*=You}}
+{{*Duration:*=Concentration}}
+{{notes= Lets you ask question of extraplanar entity.}}

@@ -1,1 +1,11 @@
-&{template:DnD35StdRoll}{{spellflag=true}}{{name=Power Word Blind (Lv. 7)}}{{*School:*=Enchantment (Compulsion) [Mind-Affecting]}}{{*Components:*=V}}{{*Casting time:*=1 standard action}}{{*Range:*=Close (25 ft. + 5 ft./2 levels)}}{{*Target:*=One creature with 200 hp or less}}{{*Duration:*=See text}}{{*Saving Throw:*=None}}{{*Spell Resistance:*=Yes}}{{notes= Blinds creature with 200 hp or less.}}
+&{template:DnD35StdRoll}{{spellflag=true}}
+{{name=Power Word Blind (Lv. 7)}}
+{{*School:*=Enchantment (Compulsion) [Mind-Affecting]}}
+{{*Components:*=V}}
+{{*Casting time:*=1 standard action}}
+{{*Range:*=Close (25 ft. + 5 ft./2 levels)}}
+{{*Target:*=One creature with 200 hp or less}}
+{{*Duration:*=See text}}
+{{*Saving Throw:*=None}}
+{{*Spell Resistance:*=Yes}}
+{{notes= Blinds creature with 200 hp or less.}}

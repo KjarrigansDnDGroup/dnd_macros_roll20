@@ -1,1 +1,11 @@
-&{template:DnD35StdRoll}{{spellflag=true}}{{name=Resist Energy (Lv. 2)}}{{*School:*=Abjuration}}{{*Components:*=V, S, DF}}{{*Casting time:*=1 standard action}}{{*Range:*=Touch}}{{*Target:*=Creature touched}}{{*Duration:*=10 min./level}}{{*Saving Throw:*=Fortitude negates (harmless)}}{{*Spell Resistance:*=Yes (harmless)}}{{notes= Ignores first 10 (or more) points of damage/attack from specified energy type.}}
+&{template:DnD35StdRoll}{{spellflag=true}}
+{{name=Resist Energy (Lv. 2)}}
+{{*School:*=Abjuration}}
+{{*Components:*=V, S, DF}}
+{{*Casting time:*=1 standard action}}
+{{*Range:*=Touch}}
+{{*Target:*=Creature touched}}
+{{*Duration:*=10 min./level}}
+{{*Saving Throw:*=Fortitude negates (harmless)}}
+{{*Spell Resistance:*=Yes (harmless)}}
+{{notes= Ignores first 10 (or more) points of damage/attack from specified energy type.}}

@@ -1,1 +1,11 @@
-&{template:DnD35StdRoll}{{spellflag=true}}{{name=Deep Slumber (Lv. 3)}}{{*School:*=Enchantment (Compulsion) [Mind-Affecting]}}{{*Components:*=V, S, M}}{{*Casting time:*=1 round}}{{*Range:*=Close (25 ft. + 5 ft./2 levels)}}{{*Area:*=One or more living creatures within a 10-ft.-radius burst}}{{*Duration:*=1 min./level}}{{*Saving Throw:*=Will negates}}{{*Spell Resistance:*=Yes}}{{notes= Puts 10 HD of creatures to sleep.}}
+&{template:DnD35StdRoll}{{spellflag=true}}
+{{name=Deep Slumber (Lv. 3)}}
+{{*School:*=Enchantment (Compulsion) [Mind-Affecting]}}
+{{*Components:*=V, S, M}}
+{{*Casting time:*=1 round}}
+{{*Range:*=Close (25 ft. + 5 ft./2 levels)}}
+{{*Area:*=One or more living creatures within a 10-ft.-radius burst}}
+{{*Duration:*=1 min./level}}
+{{*Saving Throw:*=Will negates}}
+{{*Spell Resistance:*=Yes}}
+{{notes= Puts 10 HD of creatures to sleep.}}

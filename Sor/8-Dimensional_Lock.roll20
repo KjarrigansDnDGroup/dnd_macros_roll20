@@ -1,1 +1,11 @@
-&{template:DnD35StdRoll}{{spellflag=true}}{{name=Dimensional Lock (Lv. 8)}}{{*School:*=Abjuration}}{{*Components:*=V, S}}{{*Casting time:*=1 standard action}}{{*Range:*=Medium (100 ft. + 10 ft./level)}}{{*Area:*=20-ft.-radius emanation centered on a point in space}}{{*Duration:*=One day/level}}{{*Saving Throw:*=None}}{{*Spell Resistance:*=Yes}}{{notes= Teleportation and interplanar travel blocked for one day/level.}}
+&{template:DnD35StdRoll}{{spellflag=true}}
+{{name=Dimensional Lock (Lv. 8)}}
+{{*School:*=Abjuration}}
+{{*Components:*=V, S}}
+{{*Casting time:*=1 standard action}}
+{{*Range:*=Medium (100 ft. + 10 ft./level)}}
+{{*Area:*=20-ft.-radius emanation centered on a point in space}}
+{{*Duration:*=One day/level}}
+{{*Saving Throw:*=None}}
+{{*Spell Resistance:*=Yes}}
+{{notes= Teleportation and interplanar travel blocked for one day/level.}}

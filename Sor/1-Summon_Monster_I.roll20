@@ -1,1 +1,11 @@
-&{template:DnD35StdRoll}{{spellflag=true}}{{name=Summon Monster I (Lv. 1)}}{{*School:*=Conjuration (Summoning) [see text]}}{{*Components:*=V, S, F/DF}}{{*Casting time:*=1 round}}{{*Range:*=Close (25 ft. + 5 ft./2 levels)}}{{*Effect:*=One summoned creature}}{{*Duration:*=1 round/level (D)}}{{*Saving Throw:*=None}}{{*Spell Resistance:*=No}}{{notes= Calls extraplanar creature to fight for you.}}
+&{template:DnD35StdRoll}{{spellflag=true}}
+{{name=Summon Monster I (Lv. 1)}}
+{{*School:*=Conjuration (Summoning) [see text]}}
+{{*Components:*=V, S, F/DF}}
+{{*Casting time:*=1 round}}
+{{*Range:*=Close (25 ft. + 5 ft./2 levels)}}
+{{*Effect:*=One summoned creature}}
+{{*Duration:*=1 round/level (D)}}
+{{*Saving Throw:*=None}}
+{{*Spell Resistance:*=No}}
+{{notes= Calls extraplanar creature to fight for you.}}

@@ -1,1 +1,11 @@
-&{template:DnD35StdRoll}{{spellflag=true}}{{name=Gentle Repose (Lv. 3)}}{{*School:*=Necromancy}}{{*Components:*=V, S, M/DF}}{{*Casting time:*=1 standard action}}{{*Range:*=Touch}}{{*Target:*=Corpse touched}}{{*Duration:*=One day/level}}{{*Saving Throw:*=Will negates (object)}}{{*Spell Resistance:*=Yes (object)}}{{notes= Preserves one corpse.}}
+&{template:DnD35StdRoll}{{spellflag=true}}
+{{name=Gentle Repose (Lv. 3)}}
+{{*School:*=Necromancy}}
+{{*Components:*=V, S, M/DF}}
+{{*Casting time:*=1 standard action}}
+{{*Range:*=Touch}}
+{{*Target:*=Corpse touched}}
+{{*Duration:*=One day/level}}
+{{*Saving Throw:*=Will negates (object)}}
+{{*Spell Resistance:*=Yes (object)}}
+{{notes= Preserves one corpse.}}

@@ -1,1 +1,11 @@
-&{template:DnD35StdRoll}{{spellflag=true}}{{name=Create Undead (Lv. 6)}}{{*School:*=Necromancy [Evil]}}{{*Components:*=V, S, M}}{{*Casting time:*=1 hour}}{{*Range:*=Close (25 ft. + 5 ft./2 levels)}}{{*Target:*=One corpse}}{{*Duration:*=Instantaneous}}{{*Saving Throw:*=None}}{{*Spell Resistance:*=No}}{{notes= Creates ghouls, ghasts, mummies, or mohrgs.}}
+&{template:DnD35StdRoll}{{spellflag=true}}
+{{name=Create Undead (Lv. 6)}}
+{{*School:*=Necromancy [Evil]}}
+{{*Components:*=V, S, M}}
+{{*Casting time:*=1 hour}}
+{{*Range:*=Close (25 ft. + 5 ft./2 levels)}}
+{{*Target:*=One corpse}}
+{{*Duration:*=Instantaneous}}
+{{*Saving Throw:*=None}}
+{{*Spell Resistance:*=No}}
+{{notes= Creates ghouls, ghasts, mummies, or mohrgs.}}

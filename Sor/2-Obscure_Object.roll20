@@ -1,1 +1,11 @@
-&{template:DnD35StdRoll}{{spellflag=true}}{{name=Obscure Object (Lv. 2)}}{{*School:*=Abjuration}}{{*Components:*=V, S, M/DF}}{{*Casting time:*=1 standard action}}{{*Range:*=Touch}}{{*Target:*=One object touched of up to 100 lb./level}}{{*Duration:*=8 hours (D)}}{{*Saving Throw:*=Will negates (object)}}{{*Spell Resistance:*=Yes (object)}}{{notes= Masks object against scrying.}}
+&{template:DnD35StdRoll}{{spellflag=true}}
+{{name=Obscure Object (Lv. 2)}}
+{{*School:*=Abjuration}}
+{{*Components:*=V, S, M/DF}}
+{{*Casting time:*=1 standard action}}
+{{*Range:*=Touch}}
+{{*Target:*=One object touched of up to 100 lb./level}}
+{{*Duration:*=8 hours (D)}}
+{{*Saving Throw:*=Will negates (object)}}
+{{*Spell Resistance:*=Yes (object)}}
+{{notes= Masks object against scrying.}}

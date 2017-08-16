@@ -1,1 +1,11 @@
-&{template:DnD35StdRoll}{{spellflag=true}}{{name=Secure Shelter (Lv. 4)}}{{*School:*=Conjuration (Creation)}}{{*Components:*=V, S, M, F; see text}}{{*Casting time:*=10 minutes}}{{*Range:*=Close (25 ft. + 5 ft./2 levels)}}{{*Effect:*=20-ft.-square structure}}{{*Duration:*=2 hours/level (D)}}{{*Saving Throw:*=None}}{{*Spell Resistance:*=No}}{{notes= Creates sturdy cottage.}}
+&{template:DnD35StdRoll}{{spellflag=true}}
+{{name=Secure Shelter (Lv. 4)}}
+{{*School:*=Conjuration (Creation)}}
+{{*Components:*=V, S, M, F; see text}}
+{{*Casting time:*=10 minutes}}
+{{*Range:*=Close (25 ft. + 5 ft./2 levels)}}
+{{*Effect:*=20-ft.-square structure}}
+{{*Duration:*=2 hours/level (D)}}
+{{*Saving Throw:*=None}}
+{{*Spell Resistance:*=No}}
+{{notes= Creates sturdy cottage.}}

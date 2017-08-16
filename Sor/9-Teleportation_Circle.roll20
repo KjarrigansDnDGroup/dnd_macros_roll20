@@ -1,1 +1,11 @@
-&{template:DnD35StdRoll}{{spellflag=true}}{{name=Teleportation Circle (Lv. 9)}}{{*School:*=Conjuration (Teleportation)}}{{*Components:*=V, M}}{{*Casting time:*=10 minutes}}{{*Range:*=0 ft.}}{{*Effect:*=5-ft.-radius circle that teleports those who activate it}}{{*Duration:*=10 min./level (D)}}{{*Saving Throw:*=None}}{{*Spell Resistance:*=Yes}}{{notes= Circle teleports any creature inside to designated spot.}}
+&{template:DnD35StdRoll}{{spellflag=true}}
+{{name=Teleportation Circle (Lv. 9)}}
+{{*School:*=Conjuration (Teleportation)}}
+{{*Components:*=V, M}}
+{{*Casting time:*=10 minutes}}
+{{*Range:*=0 ft.}}
+{{*Effect:*=5-ft.-radius circle that teleports those who activate it}}
+{{*Duration:*=10 min./level (D)}}
+{{*Saving Throw:*=None}}
+{{*Spell Resistance:*=Yes}}
+{{notes= Circle teleports any creature inside to designated spot.}}

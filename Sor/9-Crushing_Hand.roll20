@@ -1,1 +1,5 @@
-&{template:DnD35StdRoll}{{spellflag=true}}{{name=Crushing Hand (Lv. 9)}}{{*School:*=Evocation [Force]}}{{*Components:*=V, S, M, F/DF}}{{notes= Large hand provides cover, pushes, or crushes your foes.}}
+&{template:DnD35StdRoll}{{spellflag=true}}
+{{name=Crushing Hand (Lv. 9)}}
+{{*School:*=Evocation [Force]}}
+{{*Components:*=V, S, M, F/DF}}
+{{notes= Large hand provides cover, pushes, or crushes your foes.}}

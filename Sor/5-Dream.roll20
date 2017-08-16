@@ -1,1 +1,11 @@
-&{template:DnD35StdRoll}{{spellflag=true}}{{name=Dream (Lv. 5)}}{{*School:*=Illusion (Phantasm) [Mind-Affecting]}}{{*Components:*=V, S}}{{*Casting time:*=1 minute}}{{*Range:*=Unlimited}}{{*Target:*=One living creature touched}}{{*Duration:*=See text}}{{*Saving Throw:*=None}}{{*Spell Resistance:*=Yes}}{{notes= Sends message to anyone sleeping.}}
+&{template:DnD35StdRoll}{{spellflag=true}}
+{{name=Dream (Lv. 5)}}
+{{*School:*=Illusion (Phantasm) [Mind-Affecting]}}
+{{*Components:*=V, S}}
+{{*Casting time:*=1 minute}}
+{{*Range:*=Unlimited}}
+{{*Target:*=One living creature touched}}
+{{*Duration:*=See text}}
+{{*Saving Throw:*=None}}
+{{*Spell Resistance:*=Yes}}
+{{notes= Sends message to anyone sleeping.}}

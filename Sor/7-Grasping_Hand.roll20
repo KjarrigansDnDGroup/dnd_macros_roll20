@@ -1,1 +1,5 @@
-&{template:DnD35StdRoll}{{spellflag=true}}{{name=Grasping Hand (Lv. 7)}}{{*School:*=Evocation [Force]}}{{*Components:*=V, S, F/DF}}{{notes= Hand provides cover, pushes, or grapples.}}
+&{template:DnD35StdRoll}{{spellflag=true}}
+{{name=Grasping Hand (Lv. 7)}}
+{{*School:*=Evocation [Force]}}
+{{*Components:*=V, S, F/DF}}
+{{notes= Hand provides cover, pushes, or grapples.}}

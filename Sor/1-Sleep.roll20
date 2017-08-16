@@ -1,1 +1,11 @@
-&{template:DnD35StdRoll}{{spellflag=true}}{{name=Sleep (Lv. 1)}}{{*School:*=Enchantment (Compulsion) [Mind-Affecting]}}{{*Components:*=V, S, M}}{{*Casting time:*=1 round}}{{*Range:*=Medium (100 ft. + 10 ft./level)}}{{*Area:*=One or more living creatures within a 10-ft.-radius burst}}{{*Duration:*=1 min./level}}{{*Saving Throw:*=Will negates}}{{*Spell Resistance:*=Yes}}{{notes= Puts 4 HD of creatures into magical slumber.}}
+&{template:DnD35StdRoll}{{spellflag=true}}
+{{name=Sleep (Lv. 1)}}
+{{*School:*=Enchantment (Compulsion) [Mind-Affecting]}}
+{{*Components:*=V, S, M}}
+{{*Casting time:*=1 round}}
+{{*Range:*=Medium (100 ft. + 10 ft./level)}}
+{{*Area:*=One or more living creatures within a 10-ft.-radius burst}}
+{{*Duration:*=1 min./level}}
+{{*Saving Throw:*=Will negates}}
+{{*Spell Resistance:*=Yes}}
+{{notes= Puts 4 HD of creatures into magical slumber.}}

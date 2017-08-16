@@ -1,1 +1,9 @@
-&{template:DnD35StdRoll}{{spellflag=true}}{{name=Contingency (Lv. 6)}}{{*School:*=Evocation}}{{*Components:*=V, S, M, F}}{{*Casting time:*=At least 10 minutes; see text}}{{*Range:*=Personal}}{{*Target:*=You}}{{*Duration:*=One day/level (D) or until discharged}}{{notes= Sets trigger condition for another spell.}}
+&{template:DnD35StdRoll}{{spellflag=true}}
+{{name=Contingency (Lv. 6)}}
+{{*School:*=Evocation}}
+{{*Components:*=V, S, M, F}}
+{{*Casting time:*=At least 10 minutes; see text}}
+{{*Range:*=Personal}}
+{{*Target:*=You}}
+{{*Duration:*=One day/level (D) or until discharged}}
+{{notes= Sets trigger condition for another spell.}}

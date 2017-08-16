@@ -1,1 +1,11 @@
-&{template:DnD35StdRoll}{{spellflag=true}}{{name=Tiny Hut (Lv. 3)}}{{*School:*=Evocation [Force]}}{{*Components:*=V, S, M}}{{*Casting time:*=1 standard action}}{{*Range:*=20 ft.}}{{*Effect:*=20-ft.-radius sphere centered on your location}}{{*Duration:*=2 hours/level (D)}}{{*Saving Throw:*=None}}{{*Spell Resistance:*=No}}{{notes= Creates shelter for ten creatures.}}
+&{template:DnD35StdRoll}{{spellflag=true}}
+{{name=Tiny Hut (Lv. 3)}}
+{{*School:*=Evocation [Force]}}
+{{*Components:*=V, S, M}}
+{{*Casting time:*=1 standard action}}
+{{*Range:*=20 ft.}}
+{{*Effect:*=20-ft.-radius sphere centered on your location}}
+{{*Duration:*=2 hours/level (D)}}
+{{*Saving Throw:*=None}}
+{{*Spell Resistance:*=No}}
+{{notes= Creates shelter for ten creatures.}}

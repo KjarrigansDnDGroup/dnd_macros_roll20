@@ -1,1 +1,11 @@
-&{template:DnD35StdRoll}{{spellflag=true}}{{name=Sepia Snake Sigil (Lv. 3)}}{{*School:*=Conjuration (Creation) [Force]}}{{*Components:*=V, S, M}}{{*Casting time:*=10 minutes}}{{*Range:*=Touch}}{{*Target:*=One touched book or written work}}{{*Duration:*=Permanent or until discharged; until released or 1d4 days + one day/level; see text}}{{*Saving Throw:*=Reflex negates}}{{*Spell Resistance:*=No}}{{notes= Creates text symbol that immobilizes reader.}}
+&{template:DnD35StdRoll}{{spellflag=true}}
+{{name=Sepia Snake Sigil (Lv. 3)}}
+{{*School:*=Conjuration (Creation) [Force]}}
+{{*Components:*=V, S, M}}
+{{*Casting time:*=10 minutes}}
+{{*Range:*=Touch}}
+{{*Target:*=One touched book or written work}}
+{{*Duration:*=Permanent or until discharged; until released or 1d4 days + one day/level; see text}}
+{{*Saving Throw:*=Reflex negates}}
+{{*Spell Resistance:*=No}}
+{{notes= Creates text symbol that immobilizes reader.}}

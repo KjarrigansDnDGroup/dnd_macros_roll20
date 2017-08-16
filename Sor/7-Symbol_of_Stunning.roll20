@@ -1,1 +1,11 @@
-&{template:DnD35StdRoll}{{spellflag=true}}{{name=Symbol of Stunning (Lv. 7)}}{{*School:*=Enchantment (Compulsion) [Mind-Affecting]}}{{*Components:*=V, S, M}}{{*Casting time:*=10 minutes}}{{*Range:*=0 ft.; see text}}{{*Effect:*=One symbol}}{{*Duration:*=See text}}{{*Saving Throw:*=Will negates}}{{*Spell Resistance:*=Yes}}{{notes= Triggered rune stuns nearby creatures.}}
+&{template:DnD35StdRoll}{{spellflag=true}}
+{{name=Symbol of Stunning (Lv. 7)}}
+{{*School:*=Enchantment (Compulsion) [Mind-Affecting]}}
+{{*Components:*=V, S, M}}
+{{*Casting time:*=10 minutes}}
+{{*Range:*=0 ft.; see text}}
+{{*Effect:*=One symbol}}
+{{*Duration:*=See text}}
+{{*Saving Throw:*=Will negates}}
+{{*Spell Resistance:*=Yes}}
+{{notes= Triggered rune stuns nearby creatures.}}

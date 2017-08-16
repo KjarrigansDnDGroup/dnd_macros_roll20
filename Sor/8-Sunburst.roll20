@@ -1,1 +1,11 @@
-&{template:DnD35StdRoll}{{spellflag=true}}{{name=Sunburst (Lv. 8)}}{{*School:*=Evocation [Light]}}{{*Components:*=V, S, M/DF}}{{*Casting time:*=1 standard action}}{{*Range:*=Long (400 ft. + 40 ft./level)}}{{*Area:*=80-ft.-radius burst}}{{*Duration:*=Instantaneous}}{{*Saving Throw:*=Reflex partial; see text}}{{*Spell Resistance:*=Yes}}{{notes= Blinds all within 10 ft., deals 6d6 damage.}}
+&{template:DnD35StdRoll}{{spellflag=true}}
+{{name=Sunburst (Lv. 8)}}
+{{*School:*=Evocation [Light]}}
+{{*Components:*=V, S, M/DF}}
+{{*Casting time:*=1 standard action}}
+{{*Range:*=Long (400 ft. + 40 ft./level)}}
+{{*Area:*=80-ft.-radius burst}}
+{{*Duration:*=Instantaneous}}
+{{*Saving Throw:*=Reflex partial; see text}}
+{{*Spell Resistance:*=Yes}}
+{{notes= Blinds all within 10 ft., deals 6d6 damage.}}

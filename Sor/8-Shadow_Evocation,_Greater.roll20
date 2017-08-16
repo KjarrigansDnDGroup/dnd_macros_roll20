@@ -1,1 +1,11 @@
-&{template:DnD35StdRoll}{{spellflag=true}}{{name=Shadow Evocation, Greater (Lv. 8)}}{{*School:*=Illusion (Shadow)}}{{*Components:*=V, S}}{{*Casting time:*=1 standard action}}{{*Range:*=See text}}{{*Effect:*=See text}}{{*Duration:*=See text}}{{*Saving Throw:*=Will disbelief (if interacted with)}}{{*Spell Resistance:*=Yes}}{{notes= As shadow evocation, but up to 7th level and 60% real.}}
+&{template:DnD35StdRoll}{{spellflag=true}}
+{{name=Shadow Evocation, Greater (Lv. 8)}}
+{{*School:*=Illusion (Shadow)}}
+{{*Components:*=V, S}}
+{{*Casting time:*=1 standard action}}
+{{*Range:*=See text}}
+{{*Effect:*=See text}}
+{{*Duration:*=See text}}
+{{*Saving Throw:*=Will disbelief (if interacted with)}}
+{{*Spell Resistance:*=Yes}}
+{{notes= As shadow evocation, but up to 7th level and 60% real.}}

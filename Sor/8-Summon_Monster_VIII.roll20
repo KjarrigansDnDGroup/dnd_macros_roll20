@@ -1,1 +1,4 @@
-&{template:DnD35StdRoll}{{spellflag=true}}{{name=Summon Monster VIII (Lv. 8)}}{{*School:*=Conjuration (Summoning) [see text for summon monster I]}}{{notes= Calls extraplanar creature to fight for you.}}
+&{template:DnD35StdRoll}{{spellflag=true}}
+{{name=Summon Monster VIII (Lv. 8)}}
+{{*School:*=Conjuration (Summoning) [see text for summon monster I]}}
+{{notes= Calls extraplanar creature to fight for you.}}

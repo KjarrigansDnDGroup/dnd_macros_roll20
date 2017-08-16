@@ -1,1 +1,11 @@
-&{template:DnD35StdRoll}{{spellflag=true}}{{name=Magic Missile (Lv. 1)}}{{*School:*=Evocation [Force]}}{{*Components:*=V, S}}{{*Casting time:*=1 standard action}}{{*Range:*=Medium (100 ft. + 10 ft./level)}}{{*Targets:*=Up to five creatures, no two of which can be more than 15 ft. apart}}{{*Duration:*=Instantaneous}}{{*Saving Throw:*=None}}{{*Spell Resistance:*=Yes}}{{notes= 1d4+1 damage; +1 missile per two levels above 1st (max 5).}}
+&{template:DnD35StdRoll}{{spellflag=true}}
+{{name=Magic Missile (Lv. 1)}}
+{{*School:*=Evocation [Force]}}
+{{*Components:*=V, S}}
+{{*Casting time:*=1 standard action}}
+{{*Range:*=Medium (100 ft. + 10 ft./level)}}
+{{*Targets:*=Up to five creatures, no two of which can be more than 15 ft. apart}}
+{{*Duration:*=Instantaneous}}
+{{*Saving Throw:*=None}}
+{{*Spell Resistance:*=Yes}}
+{{notes= 1d4+1 damage; +1 missile per two levels above 1st (max 5).}}

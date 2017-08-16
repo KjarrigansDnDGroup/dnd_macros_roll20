@@ -1,1 +1,11 @@
-&{template:DnD35StdRoll}{{spellflag=true}}{{name=Clairaudience/Clairvoyance (Lv. 3)}}{{*School:*=Divination (Scrying)}}{{*Components:*=V, S, F/DF}}{{*Casting time:*=10 minutes}}{{*Range:*=Long (400 ft. + 40 ft./level)}}{{*Effect:*=Magical sensor}}{{*Duration:*=1 min./level (D)}}{{*Saving Throw:*=None}}{{*Spell Resistance:*=No}}{{notes= Hear or see at a distance for 1 min./level.}}
+&{template:DnD35StdRoll}{{spellflag=true}}
+{{name=Clairaudience/Clairvoyance (Lv. 3)}}
+{{*School:*=Divination (Scrying)}}
+{{*Components:*=V, S, F/DF}}
+{{*Casting time:*=10 minutes}}
+{{*Range:*=Long (400 ft. + 40 ft./level)}}
+{{*Effect:*=Magical sensor}}
+{{*Duration:*=1 min./level (D)}}
+{{*Saving Throw:*=None}}
+{{*Spell Resistance:*=No}}
+{{notes= Hear or see at a distance for 1 min./level.}}

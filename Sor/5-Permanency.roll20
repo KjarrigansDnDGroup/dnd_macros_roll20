@@ -1,1 +1,11 @@
-&{template:DnD35StdRoll}{{spellflag=true}}{{name=Permanency (Lv. 5)}}{{*School:*=Universal}}{{*Components:*=V, S, XP}}{{*Casting time:*=2 rounds}}{{*Range:*=See text}}{{*Target, Effect, or Area:*=See text}}{{*Duration:*=Permanent; see text}}{{*Saving Throw:*=None}}{{*Spell Resistance:*=No}}{{notes= Makes certain spells permanent.}}
+&{template:DnD35StdRoll}{{spellflag=true}}
+{{name=Permanency (Lv. 5)}}
+{{*School:*=Universal}}
+{{*Components:*=V, S, XP}}
+{{*Casting time:*=2 rounds}}
+{{*Range:*=See text}}
+{{*Target, Effect, or Area:*=See text}}
+{{*Duration:*=Permanent; see text}}
+{{*Saving Throw:*=None}}
+{{*Spell Resistance:*=No}}
+{{notes= Makes certain spells permanent.}}

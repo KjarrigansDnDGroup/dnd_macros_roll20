@@ -1,1 +1,11 @@
-&{template:DnD35StdRoll}{{spellflag=true}}{{name=Prismatic Wall (Lv. 8)}}{{*School:*=Abjuration}}{{*Components:*=V, S}}{{*Casting time:*=1 standard action}}{{*Range:*=Close (25 ft. + 5 ft./2 levels)}}{{*Effect:*=Wall 4 ft./level wide, 2 ft./level high}}{{*Duration:*=10 min./level (D)}}{{*Saving Throw:*=See text}}{{*Spell Resistance:*=See text}}{{notes= Wall’s colors have array of effects.}}
+&{template:DnD35StdRoll}{{spellflag=true}}
+{{name=Prismatic Wall (Lv. 8)}}
+{{*School:*=Abjuration}}
+{{*Components:*=V, S}}
+{{*Casting time:*=1 standard action}}
+{{*Range:*=Close (25 ft. + 5 ft./2 levels)}}
+{{*Effect:*=Wall 4 ft./level wide, 2 ft./level high}}
+{{*Duration:*=10 min./level (D)}}
+{{*Saving Throw:*=See text}}
+{{*Spell Resistance:*=See text}}
+{{notes= Wall’s colors have array of effects.}}

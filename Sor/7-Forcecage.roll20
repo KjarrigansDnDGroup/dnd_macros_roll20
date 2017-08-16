@@ -1,1 +1,11 @@
-&{template:DnD35StdRoll}{{spellflag=true}}{{name=Forcecage (Lv. 7)}}{{*School:*=Evocation [Force]}}{{*Components:*=V, S, M}}{{*Casting time:*=1 standard action}}{{*Range:*=Close (25 ft. + 5 ft./2 levels)}}{{*Area:*=Barred cage (20-ft. cube) or windowless cell (10-ft. cube)}}{{*Duration:*=2 hours/level (D)}}{{*Saving Throw:*=None}}{{*Spell Resistance:*=No}}{{notes= Cube or cage of force imprisons all inside.}}
+&{template:DnD35StdRoll}{{spellflag=true}}
+{{name=Forcecage (Lv. 7)}}
+{{*School:*=Evocation [Force]}}
+{{*Components:*=V, S, M}}
+{{*Casting time:*=1 standard action}}
+{{*Range:*=Close (25 ft. + 5 ft./2 levels)}}
+{{*Area:*=Barred cage (20-ft. cube) or windowless cell (10-ft. cube)}}
+{{*Duration:*=2 hours/level (D)}}
+{{*Saving Throw:*=None}}
+{{*Spell Resistance:*=No}}
+{{notes= Cube or cage of force imprisons all inside.}}

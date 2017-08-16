@@ -1,1 +1,11 @@
-&{template:DnD35StdRoll}{{spellflag=true}}{{name=Planar Binding, Greater (Lv. 8)}}{{*School:*=Conjuration (Calling) [see text for lesser planar binding]}}{{*Components:*=V, S}}{{*Casting time:*=10 minutes}}{{*Range:*=Close (25 ft. + 5 ft./2 levels); see text}}{{*Targets:*=Up to three elementals or outsiders, totaling no more than 18 HD, no two of which can be more than 30 ft. apart when they appear.}}{{*Duration:*=Instantaneous}}{{*Saving Throw:*=Will negates}}{{*Spell Resistance:*=No and Yes; see text}}{{notes= As lesser planar binding, but up to 18 HD.}}
+&{template:DnD35StdRoll}{{spellflag=true}}
+{{name=Planar Binding, Greater (Lv. 8)}}
+{{*School:*=Conjuration (Calling) [see text for lesser planar binding]}}
+{{*Components:*=V, S}}
+{{*Casting time:*=10 minutes}}
+{{*Range:*=Close (25 ft. + 5 ft./2 levels); see text}}
+{{*Targets:*=Up to three elementals or outsiders, totaling no more than 18 HD, no two of which can be more than 30 ft. apart when they appear.}}
+{{*Duration:*=Instantaneous}}
+{{*Saving Throw:*=Will negates}}
+{{*Spell Resistance:*=No and Yes; see text}}
+{{notes= As lesser planar binding, but up to 18 HD.}}

@@ -1,1 +1,11 @@
-&{template:DnD35StdRoll}{{spellflag=true}}{{name=Phantom Steed (Lv. 3)}}{{*School:*=Conjuration (Creation)}}{{*Components:*=V, S}}{{*Casting time:*=10 minutes}}{{*Range:*=0 ft.}}{{*Effect:*=One quasi-real, horselike creature}}{{*Duration:*=1 hour/level (D)}}{{*Saving Throw:*=None}}{{*Spell Resistance:*=No}}{{notes= Magic horse appears for 1 hour/level.}}
+&{template:DnD35StdRoll}{{spellflag=true}}
+{{name=Phantom Steed (Lv. 3)}}
+{{*School:*=Conjuration (Creation)}}
+{{*Components:*=V, S}}
+{{*Casting time:*=10 minutes}}
+{{*Range:*=0 ft.}}
+{{*Effect:*=One quasi-real, horselike creature}}
+{{*Duration:*=1 hour/level (D)}}
+{{*Saving Throw:*=None}}
+{{*Spell Resistance:*=No}}
+{{notes= Magic horse appears for 1 hour/level.}}

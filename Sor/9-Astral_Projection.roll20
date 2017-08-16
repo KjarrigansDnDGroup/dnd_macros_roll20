@@ -1,1 +1,11 @@
-&{template:DnD35StdRoll}{{spellflag=true}}{{name=Astral Projection (Lv. 9)}}{{*School:*=Necromancy}}{{*Components:*=V, S, M}}{{*Casting time:*=30 minutes}}{{*Range:*=Touch}}{{*Targets:*=You plus one additional willing creature touched per two caster levels}}{{*Duration:*=See text}}{{*Saving Throw:*=None}}{{*Spell Resistance:*=Yes}}{{notes= Projects you and companions onto Astral Plane.}}
+&{template:DnD35StdRoll}{{spellflag=true}}
+{{name=Astral Projection (Lv. 9)}}
+{{*School:*=Necromancy}}
+{{*Components:*=V, S, M}}
+{{*Casting time:*=30 minutes}}
+{{*Range:*=Touch}}
+{{*Targets:*=You plus one additional willing creature touched per two caster levels}}
+{{*Duration:*=See text}}
+{{*Saving Throw:*=None}}
+{{*Spell Resistance:*=Yes}}
+{{notes= Projects you and companions onto Astral Plane.}}
