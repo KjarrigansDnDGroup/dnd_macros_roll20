@@ -11,6 +11,26 @@ This scripts fetches an url from the [D&D Wiki](http://www.dandwiki.com/wiki/SRD
 
 ## Spell-Status
 
-* Sorcerer: few basic spells, unchecked
+* Sorcerer: 99% spells, some checked
 * Cleric: few basic spells, unchecked
 * Ranger: complete, unchecked
+
+## Helpfull scripts
+
+* rake readable['Sor/0-*']
+* rake minify['Sor/0-*']
+* rake autoconvert['Sor/0-*']
+
+The validation process is something like this:
+
+rake readable
+git commit (for better comparison of the changes)
+rake autoconvert
+loop do
+  rake readable
+  edit
+  rake minify
+  C&P into Testgame in roll20
+  Test/Modify macro
+  [C&P back into editor]
+end
